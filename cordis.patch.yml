@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-wsl-clipboard
+      name: dsh-wsl-clipboard
+      config:
+        timeoutMs: 15000
+        maxChars: 100000
